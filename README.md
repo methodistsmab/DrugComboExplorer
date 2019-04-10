@@ -27,7 +27,7 @@ http://209.160.41.231/drugcomboexplorer/
 
 # License Agreement
 
->https://github.com/methodistsmab/DrugComboExplorer/blob/master/End_User_License_Agreement.pdf
+>https://github.com/methodistsmab/DrugComboExplorer/blob/master/DrugComboExplorer_End_User_License_Agreement.pdf
 
 
 
