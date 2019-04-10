@@ -9,7 +9,7 @@ large B-cell lymphoma and prostate cancer demonstrated how synergistic drug comb
 
 ## Please cite the following paper when you use DrugComboRanker.
 
->Driver Network as a Biomarker: Systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction(https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz109/5320553) 
+[Driver Network as a Biomarker: Systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz109/5320553) 
 
 
 
