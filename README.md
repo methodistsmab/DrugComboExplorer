@@ -23,7 +23,7 @@ http://209.160.41.231/drugcomboexplorer/
 
 # User Guide
 
->https://github.com/methodistsmab/DrugComboRanker/blob/master/DrugComboRanker_user_guide_v1.pdf
+>https://github.com/methodistsmab/DrugComboRanker/blob/master/DrugComboExplorer_user_guide_v1.pdf
 
 # License Agreement
 
