@@ -7,7 +7,7 @@ This tool generates driver signaling networks by processing DNA sequencing, gene
 large B-cell lymphoma and prostate cancer demonstrated how synergistic drug combinations can be discovered to inhibit multiple driver signaling pathways. Compared to existing computational approaches, DrugComboExplorer had higher prediction accuracy based on in vitro experimental validation and probability concordance index. These results demonstrate that our network-based drug efficacy screening approach can reliably prioritize synergistic drug combinations for cancer and uncover potential mechanisms of drug synergy, warranting further studies in individual cancer patients to derive personalized treatment plans.
 
 
-## Please cite the following paper when you use DrugComboRanker.
+## Please cite the following paper when you use DrugComboRanker in your work.
 
 [Driver Network as a Biomarker: Systematic integration and network modeling of multi-omics data to derive driver signaling pathways for drug combination prediction, Lei Huang  David Brunell  Clifford Stephan  James Mancuso  Xiaohui Yu  Bin He Timothy C Thompson  Ralph Zinner  Jeri Kim  Peter Davies  Stephen T C Wong](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz109/5320553) 
 
