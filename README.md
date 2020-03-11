@@ -19,7 +19,7 @@ large B-cell lymphoma and prostate cancer demonstrated how synergistic drug comb
 
 # Download
 
-http://209.160.41.231/drugcomboexplorer/
+http://70.35.195.67/drugcomboexplorer/
 
 # User Guide
 
